@@ -10,3 +10,5 @@ The seven input nodes are classified into: temperature, previous load data, busi
 	•	Business Day or Non-Business Day
 	•	Day of the Week (1 for Mondays, 7 for Sundays)
 	•	Hour of the Day
+
+Load profile data of the University of Ibadan for the year 2017 was used. 70% of the data was used to train the model while 30% was used for testing and validation. 
